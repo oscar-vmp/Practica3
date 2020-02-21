@@ -23,6 +23,19 @@ A continuación se presenta las relaciones realizadas entre las diferentes fuent
 
 ![Fuentes](/imagenes/cloudSql.jpg "Fuentes")
 
+También se han realizado dos filtros sobre los datos:
+
+Se necesitaban solamante las viviendas de Airbnb que se alquilen completas y del catatro solo necesitamos la cantidas de viviendas residenciales, es decir todos los locales comerciales y demás no son necesarios:
+
+![Filtros](/imagenes/filtros.jpg "Filtros")
+
+El detalle del filtro primero:
+
+![Filtro1](/imagenes/filtro1.jpg "Filtro1")
+
+El detalle del filtro seundo:
+
+![Filtro2](/imagenes/filtro2.jpg "Filtro2")
 
 
 
