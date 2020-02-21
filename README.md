@@ -46,7 +46,7 @@ Posteriormente se ha creado un **Campo calculado** para crear el _KPI_.
 
 ![kpi](/imagenes/numeroViviendas.jpg "Kpi")
 
-En la práctica se han realizado tres vistas y un dashboard, el resultado ha sido el siguiente [Parctica 3](fuentes/datos_catastrales.xls)
+En la práctica se han realizado tres vistas y un dashboard, el resultado ha sido el siguiente [Practica 3](practica/)
 
 ![Dashboard](/imagenes/dashboard.jpg "Dashboard")
 
