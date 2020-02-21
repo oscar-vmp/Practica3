@@ -38,5 +38,15 @@ El detalle del _filtro segundo_:
 ![Filtro2](/imagenes/filtro2.jpg "Filtro2")
 
 
+Tambien hemos utilizado una **Expresión LOD**, para el filtardo ve los valores repetidos en el valor del cáulos del numero de viviendas en un barrio:
+
+![Numero de viviendas](/imagenes/numeroViviendas.jpg "Numero de viviendas")
+
+Posteriormente se ha creado un **Campo calculado** para crear el _KPI_. 
+
+![kpi](/imagenes/numeroViviendas.jpg "Kpi")
+
+
+
 
 
