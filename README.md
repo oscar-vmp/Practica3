@@ -13,6 +13,11 @@ A parte para el mejor análisis de la información tambien se ha cargado un __fi
 
 EL KPI a estudiar es el siguiente: 
 
-        ![KPI](/imagenes/formula_kpi.jpg "KPI")
+![KPI](/imagenes/formula_kpi.jpg "KPI")
 
-## Selección de KPIs
+## Realización de la práctica
+
+Para la realización d ela prática se han utilizado tres fuents de datos, la tabla airbnb que la tenemos en una instancia de MySql en **Google Cloud SQL**, otra fuente es un **fichero Excel** donde obtenemos los datos catastrales de los barrios de Madrid y la última fuente es un **fichero espacial** para poder pintar los barrios de Madrid.
+
+
+
