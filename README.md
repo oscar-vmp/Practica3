@@ -12,3 +12,5 @@ Para poder crear los KPIs deseados, el primer paso que se ha dado era encontar l
 A parte para el mejor análisis de la información tambien se ha cargado un __fichero espacial__ de tipo (_.shp_), en el cual estan cargados todos los [barrios de Madrid](fuentes/shp_barrios/).
 
 EL KPI a estudiar es el siguiente: 
+
+![KPI](/imagenes/formula_kpi.jpg "KPI")
