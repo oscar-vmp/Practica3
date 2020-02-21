@@ -9,6 +9,6 @@ El objetivo que se pretende conseguir con esta práctica, es realizar un estudio
 
 Para poder crear los KPIs deseados, el primer paso que se ha dado era encontar las fuentes de datos para poder realizar los indicadores deseados. Para ello necesitabamos los datos del catastro por barrios en el que entre los datos relevantes que se necesitaban era saber cuantas viviendas de uso residencial tiene Madrid. 
 
-[Datos catastrales de Madrid por barrios](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=3ed1854c8410b410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+[Datos catastrales de Madrid por barrios](fuentes/datos_catastrales.xls)
 
 A parte para el mejor análisis de la información 
