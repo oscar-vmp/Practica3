@@ -29,11 +29,11 @@ Se necesitaban solamante las viviendas de Airbnb que se alquilen completas y del
 
 ![Filtros](/imagenes/filtros.jpg "Filtros")
 
-El detalle del filtro primero:
+El detalle del _filtro primero_:
 
 ![Filtro1](/imagenes/filtro1.jpg "Filtro1")
 
-El detalle del filtro seundo:
+El detalle del _filtro segundo_:
 
 ![Filtro2](/imagenes/filtro2.jpg "Filtro2")
 
