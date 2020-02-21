@@ -13,4 +13,6 @@ A parte para el mejor análisis de la información tambien se ha cargado un __fi
 
 EL KPI a estudiar es el siguiente: 
 
-![KPI](/imagenes/formula_kpi.jpg "KPI")
+        ![KPI](/imagenes/formula_kpi.jpg "KPI")
+
+## Selección de KPIs
