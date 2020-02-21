@@ -19,5 +19,11 @@ EL KPI a estudiar es el siguiente:
 
 Para la realización d ela prática se han utilizado tres fuents de datos, la tabla airbnb que la tenemos en una instancia de MySql en **Google Cloud SQL**, otra fuente es un **fichero Excel** donde obtenemos los datos catastrales de los barrios de Madrid y la última fuente es un **fichero espacial** para poder pintar los barrios de Madrid.
 
+A continuación se presenta las relaciones realizadas entre las diferentes fuentes:
+
+![Fuentes](/imagenes/cloudSql.jpg "Fuentes")
+
+
+
 
 
